@@ -20,8 +20,9 @@ The landing page presents itself as a shortcut to mastering web development, mak
 
 ![Screenshot of Instant Web Dev Landing Page](screensho.png)
 
+## Live Demo
 
-
+[https://vipyan.github.io/Become-Instant-Webdev/](https://vipyan.github.io/Become-Instant-Webdev/)
 
 ## Technologies Used
 
