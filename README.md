@@ -18,7 +18,7 @@ The landing page presents itself as a shortcut to mastering web development, mak
 
 ## Screenshot
 
-![Screenshot of Instant Web Dev Landing Page](screensho.png)
+![Screenshot of Instant Web Dev Landing Page](Screensho.png)
 
 
 
