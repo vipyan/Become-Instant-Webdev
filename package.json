@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s06ioorecf",
+  "description": "https://scrimba.com/s06ioorecf/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
